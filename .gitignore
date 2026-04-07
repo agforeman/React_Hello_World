@@ -1,0 +1,11 @@
+#Ignore all .log files
+*.log
+
+#Ignore vs stuff
+/.vs
+
+#Ignore installed dependancies
+/helloworld/node_modules/
+
+#Ignore obj files
+/helloworld/obj
